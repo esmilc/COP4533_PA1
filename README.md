@@ -12,7 +12,7 @@ Amanda Tantalean, 34278244
 `cd src/`
 
 ### Step 2: Run the matcher
-`python main.py match [input_file]
+`python main.py match [input_file]`
 
 - `[input_file]` must be located in the `data/` directory  
 - Example:
