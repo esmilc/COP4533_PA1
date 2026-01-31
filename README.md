@@ -31,5 +31,15 @@ Amanda Tantalean, 34278244
 - Files follow the same format as the examples provided on Canvas
 
 ## Graphs
+
+### Matching Runtime
 ![Matching runtime graph](images/matchingGraph.png)
+
+*Runtime performance of the matching algorithm as input size, n, increases.*
+
+---
+
+### Verification Runtime
 ![Verification runtime graph](images/verifyGraph.png)
+
+*Runtime performance of the verification algorithm as input size, n, increases.*
